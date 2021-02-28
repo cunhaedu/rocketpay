@@ -1,4 +1,4 @@
-defmodule RocketpayWeb.FallbacController  do
+defmodule RocketpayWeb.FallbackController  do
   use RocketpayWeb, :controller
 
   def call(conn, {:error, result}) do

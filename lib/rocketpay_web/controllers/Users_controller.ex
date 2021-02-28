@@ -3,7 +3,7 @@ defmodule RocketpayWeb.UsersController  do
 
   alias Rocketpay.User
 
-  action_fallback RocketpayWeb.FallbacController
+  action_fallback RocketpayWeb.FallbackController
 
   def create(conn, params) do
     with {:ok, %User{} = user} <- Rocketpay.create_user(params) do

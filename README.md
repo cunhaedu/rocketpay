@@ -12,7 +12,7 @@
 * [Features](#rocket-features)
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
-* [FAQ](#postbox-faq)
+* [FAQ](#rocket-tecnologias)
 
 ## :computer: About
 
